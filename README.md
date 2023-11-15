@@ -13,3 +13,9 @@
 ![image](https://github.com/parseyoung/Development-of-adas-in-Unprotected-Areas/assets/104110839/49619427-7791-47d9-85cd-61ddcfc778c9)
 ## 비보호 좌회전 불가능(go, plate, 50m 이하)
 ![image](https://github.com/parseyoung/Development-of-adas-in-Unprotected-Areas/assets/104110839/e46fbf96-2a74-4357-9637-42e727d90e45)
+
+## 자율주행 자동차를 위한 ADAS 응용 개발 시스템 발표자료
+https://youtu.be/GfRUcCOG7Hw?si=Xy2mlgzrCmQjL1D4
+
+## 실제 촬영한 도로 영상에 적용한 동영상
+https://youtu.be/MVSwEdlwLJI?si=CYjMNiY76vo4SWUH
