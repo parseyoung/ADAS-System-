@@ -17,7 +17,7 @@
 https://youtu.be/MVSwEdlwLJI?si=CYjMNiY76vo4SWUH
 ### 실제 촬영한 도로 영상에 적용한 동영상2
 https://youtu.be/f2zhKBQ12C4?si=zNhODoSWfMvKXJwF
-#### - 적용 동영상은 가능 알림 여부를 잘 나타내기 위해 비보호 좌회전 가능 알림이 발생하여도 주행하지 않았습니다.
+#### - 적용 동영상은 비보호 좌회전 주행 가능 알림 여부의 변화를 잘 나타내기 위해 비보호 좌회전 가능 알림이 발생하여도 주행하지 않았습니다.
 ### 자율주행 자동차를 위한 ADAS 응용 개발 시스템 발표자료
 https://youtu.be/GfRUcCOG7Hw?si=Xy2mlgzrCmQjL1D4
 
