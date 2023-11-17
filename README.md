@@ -13,7 +13,7 @@
 - class: plate, go, left go, stop, car
 - YOLO Version : YOLOv5
 - Dataset : 약 1,500장
-- epochs : 500
+- epochs : 400
 ### 비보호 좌회전 가능(left go, plate, 50m 이상)
 ![image](https://github.com/parseyoung/Development-of-adas-in-Unprotected-Areas/assets/104110839/1a258f67-fdd0-4ed8-a337-1f8c87de9078)
 ### 비보호 좌회전 가능(go, plate, 50m 이상)
